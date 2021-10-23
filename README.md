@@ -36,11 +36,10 @@
 <p align="center"><a href="https://github.com/PUTRA-gblk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUTRA-gblk&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=api-PUTRA-gblk&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTRA-gblk&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ3&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ1&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ2&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ2&theme=dark)
 
 
 <p align="center">
