@@ -38,8 +38,8 @@
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTRA-gblk&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ3&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ1&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ2&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ1&theme=yellow)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=PUTRA-gblk&repo=PUTTBOTZ2&theme=cyan)
 
 
 <p align="center">
