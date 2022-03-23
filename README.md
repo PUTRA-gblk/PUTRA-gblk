@@ -11,8 +11,9 @@ ___
 
 ### Pubg mobile 🎮
 <p align="center">
-  <img src="https://github.com/Andriiwalker/PUTRA-gblk/blob/PUTRA-gblk/2047a1zwq1.gif" />
+  <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
 </p>
+
 
 
 ___
