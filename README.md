@@ -9,6 +9,13 @@
 
 ___
 
+### Pubg mobile 🎮
+<p align="center">
+  <img src="https://github.com/Andriiwalker/PUTRA-gblk/blob/PUTRA-gblk/2047a1zwq1.gif" />
+</p>
+
+
+___
 <p align="center">
 <a target="_blank" href="https://antei.codes/"><img alt="Anti Codes" src="https://img.shields.io/badge/Antei Codes%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=red"></a><br>
 <a target="_blank" href="https://putraganzz.herokuapp.com"><img alt="PutraXp" src="https://img.shields.io/badge/PutraXp%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
