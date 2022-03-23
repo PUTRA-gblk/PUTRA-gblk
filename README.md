@@ -31,7 +31,7 @@ ___
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 </p><br>
 
-![PutraGanzz](https://cardivo.vercel.app/api?name=Putraaaa&description=Hi,%20i%27m%20Putraaa%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://fxc7-api.herokuapp.com/upload/farhan.png&backgroundColor=%23ecf0f1&instagram=only_fxc7&github=Fxc7&site=https://api-xcoders.xyz&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
+![PutraGanzz](https://cardivo.vercel.app/api?name=Putraaaa&description=Hi,%20i%27m%20Putraaa%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://fxc7-api.herokuapp.com/upload/farhan.png&backgroundColor=%23ecf0f1&instagram=Itsmeputt_21&github=PUTRA-gblk&site=https://putraganzz.herokuapp.com&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
 ___
 
 ```
