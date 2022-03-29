@@ -2,7 +2,9 @@
   <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=0000ff&center=true&vCenter=true&multiline=false&lines=My+Name+PutraGanzz;I+Learn+Html+Nodejs+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;Don't+bully+me+≧▽≦;Jangan+Lupa+Follow+Github+Ku🗿" alt="Asu">
 </p>
 
-———————————————
+### [`👇  INTRO MY SELF`](https://putraganzz.herokuapp.com)
+___
+
 ```
 Intro = {
 "Name": "PutraGanzz",
