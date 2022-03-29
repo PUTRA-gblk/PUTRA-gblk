@@ -5,7 +5,7 @@
 ___
 
 <p align="center">
-<a target="_blank" href="https://putraganzz.herokuapp.com"><img alt="Rest Api" src="https://img.shields.io/badge/BlazXp Rest-Api%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a target="_blank" href="https://putraganzz.herokuapp.com"><img alt="Rest Api" src="https://img.shields.io/badge/BlazXp RestApi%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 ___
@@ -15,10 +15,12 @@ ___
 ```
 Intro = {
 "Name": "PutraGanzz",
+"Full name": "Putra Aditya",
 "Gender": "Laki-Laki",
 "My School": "SMP Negeri 31, Surabaya",
 "Address": "Surabaya, Jawa Timur, Indonesia",
 "Age": "16 Years Old",
+"Hoby": "Turu😴",
 "Birthday": "April - 21, 2005",
 "Couple": "My Is Jomblo😎"
 }
