@@ -17,7 +17,8 @@ Intro = {
 }
 ```
 
-———————————————
+___
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -27,20 +28,20 @@ Intro = {
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
-————
+___
 
 ### Pubg mobile 🎮
 <p align="center">
   <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
 </p>
 
-————
+___
 
 <p align="center">
 <a target="_blank" href="https://putraganzz.herokuapp.com"><img alt="PutraXp" src="https://img.shields.io/badge/PutraXp%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
-————
+___
 
 ```
             You Visitors To:
@@ -49,7 +50,7 @@ Intro = {
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 </p><br>
 
-————
+___
 
 ```
 • 👋 Hii, i'm PutraGanzz And This My Info •
@@ -60,7 +61,7 @@ Intro = {
 
 ```
 
-————
+___
 
 <p align="center">
   <a href="https://github.com/PUTRA-gblk"><img src="https://github-readme-stats.vercel.app/api?username=PUTRA-gblk&theme=tokyonight&show_icons=true" /></a>
