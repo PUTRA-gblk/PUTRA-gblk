@@ -10,7 +10,7 @@ ___
 
 ___
 
-### [`👇  INTRO MY SELF`](https://putraganzz.herokuapp.com)
+### [`👇  Intro Atau Ke Wangsaff`](https://api.whatsapp.com/send?phone=6285854721440&text=Assalamualaikum+bang+boleh+kenalan?)
 
 ```
 Intro = {
