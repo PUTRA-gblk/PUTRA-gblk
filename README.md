@@ -5,7 +5,7 @@
 ___
 
 <p align="center">
-<a target="_blank" href="https://putraganzz.herokuapp.com"><img alt="Rest Api" src="https://img.shields.io/badge/BlazXp RestApi%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a target="_blank" href="https://putraganzz.herokuapp.com"><img alt="Rest Api" src="https://img.shields.io/badge/Rest Api%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 ___
