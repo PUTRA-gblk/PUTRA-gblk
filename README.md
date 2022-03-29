@@ -2,7 +2,18 @@
   <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=0000ff&center=true&vCenter=true&multiline=false&lines=My+Name+PutraGanzz;I+Learn+Html+Nodejs+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;Don't+bully+me+≧▽≦;Jangan+Lupa+Follow+Github+Ku🗿" alt="Asu">
 </p>
 
----------
+```
+Intro = {
+"Name": "PutraGanzz",
+"Gender": "Laki-Laki",
+"My School": "SMP Negeri 31, Surabaya",
+"Address": "Surabaya, Jawa Timur, Indonesia",
+"Age": "16 Years Old",
+"Birthday": "April - 21, 2005",
+"Couple": "My Is Jomblo😎"
+}
+```
+———
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -36,8 +47,7 @@ ___
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 </p><br>
 
-![PutraGanzz](https://cardivo.vercel.app/api?name=Putraaaa&description=Hi,%20i%27m%20Putraaa%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://fxc7-api.herokuapp.com/upload/farhan.png&backgroundColor=%23ecf0f1&instagram=Itsmeputt_21&github=PUTRA-gblk&site=https://putraganzz.herokuapp.com&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
-___
+———
 
 ```
 • 👋 Hii, i'm PutraGanzz And This My Info •
@@ -50,15 +60,6 @@ ___
 ___
 
 ### [`👇  INTRO MY SELF`](https://putraganzz.herokuapp.com)
-```
-Intro = {
-"Name": "PutraGanzz",
-"Status": "Gender[Laki-Laki], SMP NEGERI 31, SURABAYA",
-"Address": "Surabaya, Jawa Timur, Indonesia",
-"Age": "16 Years Old",
-"Birthday": "April - 21, 2005"
-}
-```
 ___
 
 
