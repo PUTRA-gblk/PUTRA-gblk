@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=ffff00&center=true&vCenter=true&multiline=false&lines=My+Name+Putra+Aditya;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;Don't+bully+me+≧▽≦" alt="Asu">
+  <a href="https://github.com/Rlxfly"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ff&center=true&vCenter=true&multiline=false&lines=My+Name+Putra+Aditya;I+Learn+Html+And+Javascript;I+Am+16+Years+Old;I+live+In+Indonesian;Don't+bully+me+≧▽≦" alt="Asu">
 </p>
 
 ---------
