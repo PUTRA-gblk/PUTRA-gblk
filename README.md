@@ -11,7 +11,6 @@ ___
 ___
 
 ### [`👇  INTRO MY SELF`](https://putraganzz.herokuapp.com)
-___
 
 ```
 Intro = {
@@ -24,8 +23,6 @@ Intro = {
 "Couple": "My Is Jomblo😎"
 }
 ```
-
-___
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
