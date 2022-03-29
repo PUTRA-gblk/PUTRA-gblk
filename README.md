@@ -14,10 +14,9 @@ ___
 
 <details>
 
-<summary> <b>Example Case</b></summary><br/>
+<summary> <b>View All</b></summary><br/>
 
 ```
-View Intro:
 
 Intro = {
 "Name": "PutraGanzz",
