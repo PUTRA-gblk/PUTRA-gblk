@@ -35,12 +35,6 @@ Intro = {
 
 ___
 
-### Pubg mobile 🎮
-<p align="center">
-  <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
-</p>
-
-___
 
 ```
                You Visitors To:
