@@ -12,7 +12,13 @@ ___
 
 ### [`👇  Intro Atau Ke Wangsaff`](https://api.whatsapp.com/send?phone=6285854721440&text=Assalamualaikum+bang+boleh+kenalan?)
 
+<details>
+
+<summary> <b>Example Case</b></summary><br/>
+
 ```
+View Intro:
+
 Intro = {
 "Name": "PutraGanzz",
 "Full name": "Putra Aditya",
@@ -24,7 +30,10 @@ Intro = {
 "Birthday": "April - 21, 2005",
 "Couple": "My Is Jomblo😎"
 }
+
 ```
+
+</details>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
