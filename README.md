@@ -4,8 +4,7 @@
 
 ___
 
-<a href="https://github.com/PUTRA-gblk/"><img src="https://cardivo.vercel.app/api?name=PutraGanzz&description=Jangan Dibuly Om😺
-Masih Pemula Bwehehehe🗿&image=https://telegra.ph/file/6b34deb5987bab8151a8b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=PUTRA-gblk&pattern=leaf&colorPattern=%23eaeaea" /></a>
+<a href="https://github.com/PUTRA-gblk/"><img src="https://cardivo.vercel.app/api?name=PutraGanzz&description=Masih Pemula Bwehehehe🗿&image=https://telegra.ph/file/6b34deb5987bab8151a8b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=PUTRA-gblk&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 ___
 
