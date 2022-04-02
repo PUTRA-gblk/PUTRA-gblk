@@ -4,7 +4,7 @@
 
 ___
 
-<a href="https://github.com/PUTRA-gblk/"><img src="https://cardivo.vercel.app/api?name=PutraGanzz&description=Hello, I am PutraGanzz I Learn Javascript Nodejs And Html, Please Don't Bully,Thanks Sudah Mampir Di Github Ku😊&image=https://telegra.ph/file/6b34deb5987bab8151a8b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=PUTRA-gblk&pattern=leaf&colorPattern=%23eaeaea" /></a>
+<a href="https://github.com/PUTRA-gblk/"><img src="https://cardivo.vercel.app/api?name=PutraGanzz&description=Hello, I am PutraGanzz I Learn Javascript Nodejs And Html, Please Don't Bully&image=https://telegra.ph/file/6b34deb5987bab8151a8b.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=PUTRA-gblk&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 <p align="center">
 <a target="_blank" href="https://putraganzz.herokuapp.com"><img alt="Rest Api" src="https://img.shields.io/badge/Rest Api%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
